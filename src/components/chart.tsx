@@ -18,7 +18,7 @@ const TradingViewWidget = ({ type = 'BTC' }: { type: string }) => {
         symbol: symbolType,
         interval: 'D',
         timezone: 'Europe/Zurich',
-        theme: 'light',
+        theme: 'Dark',
         style: '1',
         locale: 'en',
         toolbar_bg: '#f1f3f6',
